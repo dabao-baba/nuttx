@@ -181,7 +181,7 @@ enum v4l2_scene_mode
   V4L2_SCENE_MODE_PORTRAIT     = 10,   /* Portrait */
   V4L2_SCENE_MODE_SPORTS       = 11,   /* Sports */
   V4L2_SCENE_MODE_SUNSET       = 12,   /* Sunset */
-  V4L2_SCENE_MODE_TEXT         = 13,    /* Text */
+  V4L2_SCENE_MODE_TEXT         = 13,   /* Text */
   V4L2_SCENE_MODE_MAX          = 14    /**< Max number */
 };
 
